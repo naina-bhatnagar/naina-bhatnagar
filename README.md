@@ -8,56 +8,34 @@
 ---
 
 ### 🏆 My GitHub Trophies
-🏆 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=naina-bhatnagar&theme=nord&title=Commits,PullRequest,Issues,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=naina-bhatnagar&theme=nord&title=Commits,PullRequest,Issues,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br />C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br />HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br />CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br />NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br />Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br />GitHub
-    </td>
-  </tr>
-</table>
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C566A?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
