@@ -7,16 +7,21 @@
 
 ---
 
-### 🏆 My GitHub Trophies
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=naina-bhatnagar&theme=nord&title=Commits,PullRequest,Issues,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+### My GitHub Trophies
+
+[![GitHub Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=naina-bhatnagar&theme=nord&title=Commits,PullRequest,Issues,Repositories,Experience&column=5&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=naina-bhatnagar&theme=tokyonight&date_format=M%20j" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
 ### Tech Stack & Tools
-
----
-
-### 💻 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -59,4 +64,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+[![Naina's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naina-bhatnagar&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
